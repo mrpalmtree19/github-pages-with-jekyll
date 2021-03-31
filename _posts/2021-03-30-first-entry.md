@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2021-03-30
 ---
 # Title
 ## Sub-title
